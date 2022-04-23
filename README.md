@@ -16,5 +16,7 @@ Bot Tambahan
 
 
 Tampilan Server
+
+
 <img src="https://i.ibb.co/CMFLHHm/image-2022-04-23-081136976.png" />
 <img src="https://i.ibb.co/z5Ccgbf/image-2022-04-23-081251735.png" />
